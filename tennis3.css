@@ -1,0 +1,18 @@
+body{
+    background-image:url(https://phonoteka.org/uploads/posts/2021-04/1618324052_9-phonoteka_org-p-zadnii-fon-kosmos-10.jpg); 
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 136, 255);
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+}
+th{
+    border: 2px solid rgb(255, 0, 0);
+    color: aqua;
+}
+
