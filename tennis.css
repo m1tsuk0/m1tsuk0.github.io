@@ -17,7 +17,7 @@ h2{
 }
 
 body{
-    background-image: linear-gradient(rgb(142, 215, 226),rgb(89, 219, 89));
+    background-image:url(https://avatars.mds.yandex.net/get-altay/223006/2a0000015b16d2e5043ceb1b81b6b3122575/orig);
 }
 
 #text{
@@ -71,4 +71,5 @@ input{
         width: 300px;
     }
 }
+
 
